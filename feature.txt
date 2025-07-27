@@ -1,2 +1,3 @@
 This is the feature branch.
 Adding initial feature.
+Some fix in feature.txt from fix branch.
